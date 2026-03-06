@@ -38,23 +38,23 @@ img/
 
 START
 
-Display website header
-Show logo
-Show navigation menu (Home, About, Services)
+Display website header  
+Show logo  
+Show navigation menu (Home, About, Services)  
 
-IF user clicks Home
-Show homepage content
-Display website introduction
-Show technology sections (HTML, CSS, Design)
+IF user clicks Home  
+Show homepage content  
+Display website introduction  
+Show technology sections (HTML, CSS, Design)  
 
-IF user clicks About
-Show company information
-Display vision and mission statements
+IF user clicks About  
+Show company information  
+Display vision and mission statements  
 
-IF user clicks Services
-Show list of services
-Display service descriptions and prices
-Show contact form
+IF user clicks Services  
+Show list of services  
+Display service descriptions and prices  
+Show contact form  
 
 IF user enters email in newsletter form
 Accept email input
