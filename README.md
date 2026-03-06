@@ -1,9 +1,9 @@
-🌐 Udemig Software Website
+## 🌐 Udemig Software Website
 
 A simple business website built with HTML and CSS.
 This project represents a fictional company called Udemig Software and demonstrates basic front-end development concepts such as layout design, navigation and responsive pages.
 
-🚀 Features
+## 🚀 Features
 
 Multi-page website structure
 
@@ -19,13 +19,13 @@ Responsive layout
 
 Clean and simple user interface
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 HTML5
 
 CSS3
 
-📁 Project Structure
+## 📁 Project Structure
 
 index.html
 about.html
