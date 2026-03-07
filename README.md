@@ -23,7 +23,6 @@ Clean and simple user interface
 ## 🛠 Technologies Used
 
 HTML5
-
 CSS3
 
 ## 📁 Project Structure
@@ -67,33 +66,42 @@ Display website footer
 
 END
 
+
 ## 🌐 Udemig Yazılım Web Sitesi
 
 Bu proje HTML ve CSS kullanılarak oluşturulmuş basit bir işletme web sitesidir.
 Proje, Udemig Software adlı kurgusal bir şirketi temsil eder ve temel front-end geliştirme kavramlarını göstermeyi amaçlar.
 
 Bu projede aşağıdaki konular uygulanmıştır:
-	•	Sayfa düzeni (layout)
-	•	Navigasyon menüsü
-	•	Responsive (mobil uyumlu) tasarım
-	•	Çok sayfalı web sitesi yapısı
+		Sayfa düzeni (layout)
+		Navigasyon menüsü
+		Responsive (mobil uyumlu) tasarım
+		Çok sayfalı web sitesi yapısı
 
 ⸻
 
 ## 🚀 Özellikler
-	•	Çok sayfalı web sitesi yapısı
-	•	Navigasyon menüsü
-	•	Bülten abonelik bölümü
-	•	Fiyatlandırma içeren hizmetler sayfası
-	•	İletişim formu
-	•	Responsive (mobil uyumlu) tasarım
-	•	Temiz ve basit kullanıcı arayüzü
+
+		Çok sayfalı web sitesi yapısı
+		
+		Navigasyon menüsü
+		
+		Bülten abonelik bölümü
+		
+		Fiyatlandırma içeren hizmetler sayfası
+		
+		İletişim formu
+		
+		Responsive (mobil uyumlu) tasarım
+		
+		Temiz ve basit kullanıcı arayüzü
 
 ⸻
 
 ## 🛠 Kullanılan Teknolojiler
-	•	HTML5
-	•	CSS3
+
+		HTML5
+		CSS3
 
 ⸻
 
