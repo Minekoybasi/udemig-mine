@@ -1,3 +1,5 @@
+🇬🇧 English below | 🇹🇷 Türkçe açıklama aşağıdadir
+
 ## 🌐 Udemig Software Website
 
 A simple business website built with HTML and CSS.
@@ -65,3 +67,38 @@ Accept user information (name, email, phone, message)
 Display website footer
 
 END
+
+## 🌐 Udemig Yazılım Web Sitesi
+
+Bu proje HTML ve CSS kullanılarak oluşturulmuş basit bir işletme web sitesidir.
+Proje, Udemig Software adlı kurgusal bir şirketi temsil eder ve temel front-end geliştirme kavramlarını göstermeyi amaçlar.
+
+Bu projede aşağıdaki konular uygulanmıştır:
+	•	Sayfa düzeni (layout)
+	•	Navigasyon menüsü
+	•	Responsive (mobil uyumlu) tasarım
+	•	Çok sayfalı web sitesi yapısı
+
+⸻
+
+## 🚀 Özellikler
+	•	Çok sayfalı web sitesi yapısı
+	•	Navigasyon menüsü
+	•	Bülten abonelik bölümü
+	•	Fiyatlandırma içeren hizmetler sayfası
+	•	İletişim formu
+	•	Responsive (mobil uyumlu) tasarım
+	•	Temiz ve basit kullanıcı arayüzü
+
+⸻
+
+## 🛠 Kullanılan Teknolojiler
+	•	HTML5
+	•	CSS3
+
+⸻
+
+## 📌 Amaç
+
+Bu proje, temel front-end geliştirme becerilerini geliştirmek ve modern bir web sitesi yapısının nasıl oluşturulduğunu göstermek amacıyla hazırlanmıştır.
+
