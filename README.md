@@ -1,4 +1,3 @@
-🇬🇧 English below | 🇹🇷 Türkçe açıklama aşağıdadir
 
 ## 🌐 Udemig Software Website
 
