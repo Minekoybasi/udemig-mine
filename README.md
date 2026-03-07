@@ -1,4 +1,3 @@
-## 🇬🇧English below | 🇹🇷 Turkce aciklama asagidadir
 
 ## 🌐 Udemig Software Website
 
