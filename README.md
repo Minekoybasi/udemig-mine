@@ -4,7 +4,7 @@
 A simple business website built with HTML and CSS.
 This project represents a fictional company called Udemig Software and demonstrates basic front-end development concepts such as layout design, navigation and responsive pages.
 
-## 🚀 Features
+## Features
 
 Multi-page website structure
 
@@ -20,12 +20,12 @@ Responsive layout
 
 Clean and simple user interface
 
-## 🛠 Technologies Used
+## Technologies Used
 
 HTML5
 CSS3
 
-## 📁 Project Structure
+## Project Structure
 
 index.html
 about.html
@@ -80,7 +80,7 @@ Bu projede aşağıdaki konular uygulanmıştır:
 
 ⸻
 
-## 🚀 Özellikler
+##  Özellikler
 
 		Çok sayfalı web sitesi yapısı
 		
@@ -98,14 +98,14 @@ Bu projede aşağıdaki konular uygulanmıştır:
 
 ⸻
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 		HTML5
 		CSS3
 
 ⸻
 
-## 📌 Amaç
+## Amaç
 
 Bu proje, temel front-end geliştirme becerilerini geliştirmek ve modern bir web sitesi yapısının nasıl oluşturulduğunu göstermek amacıyla hazırlanmıştır.
 
